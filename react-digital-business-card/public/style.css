@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.App {
+    background-color: rebeccapurple;
+    margin: auto;
+    width: 50%;
+    border: 3px solid lightgoldenrodyellow;
+    padding: 10px;
+}
+.info--name {
+    color: #F0DE36;
+}
+
+.info--web {
+    color: #FAF0D7;
+}
+
+.about {
+    padding-bottom: 2rem;
+}
